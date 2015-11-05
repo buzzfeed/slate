@@ -43,4 +43,4 @@ Now that Slate is all set up your machine, you'll probably want to learn more ab
 
 
 ### Examples of Buzzfeed Slate in the Wild
-* [Hive Docs](hive-docs.buzzfeed.com/)
+* [Hive Docs](http://hive-docs.buzzfeed.com/)
