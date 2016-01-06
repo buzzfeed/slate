@@ -2,7 +2,7 @@
 
 <img src="buzzfeed_slate_screenshot.png" width=700 alt="Screenshot of Example Documentation created with Slate">
 
-*The example above was created with Buzzfeed Slate. Check it out at [tripit.github.io/slate](http://tripit.github.io/slate).*
+*The example above was created with Slate. Check it out at [tripit.github.io/slate](http://tripit.github.io/slate).*
 
 Features
 ------------
@@ -43,6 +43,8 @@ Now that Slate is all set up your machine, you'll probably want to learn more ab
 
 
 ### Examples of Buzzfeed Slate in the Wild
+
+* [PDA Docs](https://pda.buzzfeed.com/docs/)
 * [Hive Docs](http://hive-docs.buzzfeed.com/)
 
 
